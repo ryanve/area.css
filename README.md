@@ -4,7 +4,7 @@ CSS functional `width` and `height` module
 ## setup
 
 ```css
-@import 'node_modules/area/area';
+@import 'node_modules/area.css/area';
 ```
 
 ## classes
