@@ -3,6 +3,10 @@ CSS functional `width` and `height` module
 
 ## setup
 
+```
+npm install area.css
+```
+
 ```css
 @import 'node_modules/area.css/area';
 ```
