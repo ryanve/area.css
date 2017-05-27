@@ -1,0 +1,41 @@
+{
+  "name": "area.css",
+  "version": "0.0.0",
+  "description": "CSS widths and heights",
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "main": "area.css",
+  "scripts": {
+    "preversion": "npm test",
+    "prestart": "npm update",
+    "start": "npm run css",
+    "test": "eslint . --ext .js",
+    "css": "node area.js"
+  },
+  "homepage": "https://github.com/ryanve/area",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/area.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/area/issues"
+  },
+  "keywords": [
+    "css",
+    "area",
+    "width",
+    "height",
+    "classes",
+    "min-width",
+    "max-width",
+    "min-height",
+    "max-height",
+    "functional-css",
+    "grid-system",
+    "grids",
+    "grid"
+  ],
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
