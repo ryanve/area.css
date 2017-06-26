@@ -6,13 +6,13 @@
   "license": "ISC",
   "main": "area.css",
   "scripts": {},
-  "homepage": "https://github.com/ryanve/area",
+  "homepage": "https://github.com/ryanve/area.css",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanve/area.git"
+    "url": "git+https://github.com/ryanve/area.css.git"
   },
   "bugs": {
-    "url": "https://github.com/ryanve/area/issues"
+    "url": "https://github.com/ryanve/area.css/issues"
   },
   "keywords": [
     "css",
