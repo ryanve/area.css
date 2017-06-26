@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en-US" class="bg-white">
+<html lang="en-US" class="scheme-0 height-all">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>area.css - opensource CSS width x height module</title>
@@ -8,22 +8,19 @@
 <link rel="stylesheet" href="area.css">
 
 <style>
-  :focus { outline-color: Blue; }
-  :link, :visited { color: Blue }
-  .bg-white { background: WhiteSmoke; color: #222 }
-  .bg-red { background: Crimson; color: WhiteSmoke }
-  html { font: 1.125em/2 sans-serif }
+  * { box-sizing: border-box }
+  :focus { outline-color: currentColor }
+  .scheme-0 { background: WhiteSmoke; color: #222 }
+  .scheme-1 { background: Purple; color: Gold }
+  html { font: 1.5em/2 sans-serif }
+  .m0 { margin: 0 }
   .pad { padding: 1rem }
   .block { display: block }
   .flow { margin: 0 0 1rem }
 </style>
 
-<a class="flow pad bg-red block max-width=3" href="https://github.com/ryanve/area.css">area.css</a>
+<body class="m0 height-all">
 
-<figure class="flow width=100vw height=50vh">
-  <pre class="flow pad bg-red width=6 max-width=50em min-height=50vh height=inherit">
-    width: 50%;
-    max-width: 50em;
-    height: inherit;
-  </pre>
-</figure>
+<div class="pad scheme-1 width-all height-all max-viewport">
+  <a class="scheme-1" href="https://github.com/ryanve/area.css">area.css</a>
+</div>
