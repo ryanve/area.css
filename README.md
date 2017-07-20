@@ -33,7 +33,6 @@ npm install area.css
 ### `max`
 - `.max-none` sets maxes to `none`
 - `.max-zero` sets maxes to `0`
-- `.max-auto` sets maxes to `auto`
 - `.max-viewport` sets maxes to viewport size
 - `.width-free` sets max-width to `none`
 - `.height-free` sets max-height to `none`
