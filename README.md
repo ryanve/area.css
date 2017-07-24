@@ -18,7 +18,6 @@ npm install area.css
 - `.width-rem` sets width to `1rem`
 - `.width-viewport` sets width to `100vw`
 - `.width-auto` sets width to `auto`
-- `.width-range` keeps within `0` and `100%`
 
 ### `height`
 
@@ -28,7 +27,6 @@ npm install area.css
 - `.height-rem` sets height to `1rem`
 - `.height-viewport` sets height to `100vh`
 - `.height-auto` sets height to `auto`
-- `.height-range` keeps within `0` and `100%`
 
 ### `max`
 - `.max-none` sets maxes to `none`
