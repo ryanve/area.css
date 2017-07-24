@@ -23,8 +23,10 @@
 
 .width-free { max-width: none }
 .width-fit { max-width: 100% }
+.width-clip { max-width: 0 }
 .width-force { min-width: 100% }
 
 .height-free { max-height: none }
 .height-fit { max-height: 100% }
+.height-clip { max-height: 0 }
 .height-force { min-height: 100% }

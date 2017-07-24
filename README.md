@@ -38,6 +38,8 @@ npm install area.css
 - `.height-free` sets max-height to `none`
 - `.width-fit` sets max-width to `100%`
 - `.height-fit` sets max-height to `100%`
+- `.width-clip` sets max-width to `0`
+- `.height-clip` sets max-height to `0`
 
 ### `min`
 - `.min-zero` sets mins to `0`
